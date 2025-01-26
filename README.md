@@ -9,7 +9,7 @@ I have been working on the computer vision world for the past 5 years, focusing 
 *   🌍  I'm based in Zürich, Switzerland
 *   🖥️  See my portfolio at [Salazar Navalon](http://www.salazarnavalon.com)
 *   ✉️  You can contact me at [carla@salazarnavalon.com](mailto:carla@salazarnavalon.com)
-*   🚀  I'm currently working on [Washbot GmbH](http://tbd.com)
+*   🚀  I'm currently Head of Software at [PREEN Technologies AG](https://preen.ch)
 *   🧠  I'm interested in Sensor Fusion, Scene Understanding, Deep Learning and SLAM.
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Looking forward to working on new interesting projects!
